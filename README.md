@@ -4,7 +4,7 @@
 **SDesires/SDesires** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-##About Me | ##The Boring Stuff
+About Me | The Boring Stuff
 -------- | -------------
 I am from | :🇺🇸:
 I’m currently working on | 💻 practicing my HTML and CSS on a daily basis.
