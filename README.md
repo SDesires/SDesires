@@ -13,4 +13,8 @@ I’m currently working on | 💻 practicing my HTML and CSS on a daily basis.
 Pronouns | She/Her ♀️
 Can never have too much |  ☕ ☕ ☕ ☕ ☕ ☕ ☕ ☕
 
+« ɪ'ᴍ ᴀɴ ɪɴᴛʀᴏᴠᴇʀᴛ ᴤᴛᴜᴄᴋ ɪɴ ᴀɴ ᴇxᴛʀᴏᴠᴇʀᴛ ᴡᴏʀʟᴅ. »
+
+
+
 *This page is subject to change*
