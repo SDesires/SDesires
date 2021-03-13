@@ -6,7 +6,6 @@
 
 About Me | The Boring Stuff
 -------- | -------------
-I am from | :🇺🇸:
 I’m currently working on | 💻 practicing my HTML and CSS on a daily basis.
 📚 I’m currently learning | JS...slowly.....*VERY* slowly.....  😖
 ❔ I’m looking for help with | Finding a JS for Dummies tutorial (kidding 😆)
